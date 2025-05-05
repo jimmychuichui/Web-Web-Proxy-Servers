@@ -1,4 +1,4 @@
-# 🖥️ Minimal Web & Proxy Server (MP1 Project)
+# 🖥️ Minimal Web & Proxy Server
 
 This project implements a **multithreaded HTTP server** and **proxy server** in Python. It supports various HTTP response codes and simulates realistic performance optimizations like caching and Head-Of-Line (HOL) blocking mitigation.
 
@@ -92,4 +92,10 @@ This project implements a **multithreaded HTTP server** and **proxy server** in 
 
 
 
+
+## 📄 License
+This project is open-sourced under the MIT License.
+
+## 🤝 Contribution
+Pull requests, issue reports, and enhancements are welcome! If you build on top of PRTP, feel free to fork and share your extensions.
 
